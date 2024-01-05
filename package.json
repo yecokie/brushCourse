@@ -1,0 +1,23 @@
+{
+  "name": "brush-course",
+  "version": "1.0.0",
+  "description": "浙江会计之家刷课程",
+  "main": "index.js",
+  "author": "yecookie",
+  "license": "MIT",
+  "scripts": {
+    "pkg": "pkg ./index.js -t node10-macos-x64"
+  },
+  "dependencies": {
+    "axios": "^0.19.2",
+    "cheerio": "^1.0.0-rc.3",
+    "form-data": "^3.0.0",
+    "progress": "^2.0.3",
+    "qs": "^6.9.3",
+    "readline": "^1.3.0",
+    "xml2js": "^0.4.23"
+  },
+  "devDependencies": {
+    "pkg": "^4.4.6"
+  }
+}
