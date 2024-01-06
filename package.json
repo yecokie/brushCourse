@@ -6,7 +6,7 @@
   "author": "yecookie",
   "license": "MIT",
   "scripts": {
-    "pkg": "pkg ./index.js -t node10-macos-x64"
+    "pkg": "pkg ./index.js -t node14-win-64"
   },
   "dependencies": {
     "axios": "^0.19.2",
