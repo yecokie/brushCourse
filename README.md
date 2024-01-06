@@ -2,3 +2,5 @@
 原因可能是由macos打包兼容性问题。
 建议下载源码自主编译打包。
 有其他问题欢迎邮件联系：yecokie@gmail.com
+欢迎打赏
+![image](Tiping/wx.JPG)
